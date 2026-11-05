@@ -273,7 +273,7 @@ function initContactForm() {
 
       if (statusAlert) {
         statusAlert.className = 'form-status-alert error';
-        statusAlert.textContent = 'Oops! There was an issue submitting your request. Please email us directly at bhaktienterprise49@gmail.com or call +91 6354 980 982.';
+        statusAlert.textContent = 'Oops! There was an issue submitting your request. Please email us directly at bhaktienterprise49@gmail.com.';
         statusAlert.style.display = 'block';
       }
     }
